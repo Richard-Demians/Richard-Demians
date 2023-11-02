@@ -1,7 +1,10 @@
 <a href="https://github.com/Eva-U2"><img alt="Richard Demians" src="RICHARD-DEMIANS.jpg" height="350px" position="center" width='900' /></a>
+
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Richard</h2>
+
 <!-- ## 👋 &nbsp;Hola, soy Richard -->
 <br>
+
 ### 👨🏻‍💻 &nbsp;Acerca de mí
 💡 &nbsp;Me gusta explorar nuevas tecnologías, aprendo rápido y me adapto fácilmente a grupos de trabajo.\
 🎓 &nbsp;Actualmente estoy estudiando Desarrollo web en la Universidad de Avellaneda.\
@@ -23,6 +26,7 @@
 <a href="https://github.com/"><img src="https://eva02.netlify.app/media/marcas7.png" width="50px"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://eva02.netlify.app/media/marcas4.png" width="50px"/></a>
 <a href="https://app.netlify.com/"><img src="https://eva02.netlify.app/media/marcas8.png" width="50px"/></a>
+
 <br>
 <br>
 <br>
@@ -35,6 +39,7 @@
   <a href="https://eva02.netlify.app/"><img height="133em" src="https://eva02.netlify.app/media/imgs/EVA-02.jpeg"/></a>
 </p>
 <br>
+
 ### 🤝🏻 &nbsp;Contáctate conmigo
 <br>
 <p align="center">
@@ -45,6 +50,7 @@
 <a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-Richard Demians-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 <br>
+
 -----
 <img alt="Night Coding" src="https://i.pinimg.com/originals/13/b2/fb/13b2fb4d9866d4e1611edd6e667af31e.gif" align="left"/>
 <div align="right">
@@ -52,3 +58,4 @@
  <p> Ultima edicion 25/10/2023 </p>
  <p> E-MAIL: <a href="mailto:richard.demians@gmail.com">richard.demians@gmail.com</a></p>
 </div>
+
